@@ -70,12 +70,12 @@ def attribution(grouped):
     lines = [
         "# Attribution",
         "",
-        "Every image in this repository comes from **Wikimedia Commons** and is published",
-        "under a free licence (Creative Commons or public domain). Reuse must keep the",
-        "author credit, the licence name and a link to the licence.",
+        "Images come from **Wikimedia Commons** (Creative Commons / public domain) and",
+        "**Unsplash** (the Unsplash License). Reuse must keep the author credit, the licence",
+        "name and a link to the licence.",
         "",
-        "Full-resolution sources are throttled by Wikimedia, so most files here are the",
-        "standard 3840px render; the `Resolution` line shows the actual pixels stored and,",
+        "Commons files are the standard 3840px render (originals are throttled); Unsplash",
+        "files were fetched at 3840px. The `Resolution` line shows the actual pixels stored and,",
         "where relevant, the size of the original upload.",
         "",
     ]
@@ -86,7 +86,7 @@ def attribution(grouped):
         lines.append(f"## {label(place)}")
         lines.append("")
         for row in rows:
-            title = row["title"][5:]
+            title = row["title"][5:] if row["title"].startswith("File:") else row["title"]
             d = dims(os.path.join(ROOT, row["file"]))
             dim = f"{d[0]} x {d[1]} px" if d else f"{row['width']} x {row['height']} px"
             if d and (row["width"] > d[0] or row["height"] > d[1]):
@@ -122,7 +122,7 @@ def locations(grouped):
         lines.append(f"### {label(place)}")
         lines.append("")
         for row in rows:
-            lines.append(f"- `{row['file']}` - {row['title'][5:]}")
+            lines.append(f"- `{row['file']}` - {row['title'][5:] if row['title'].startswith('File:') else row['title']}")
         lines.append("")
     return "\n".join(lines)
 
@@ -132,7 +132,7 @@ def readme(grouped):
     places = len(order(grouped))
     return f"""# Wallpapers
 
-{total} high-resolution (4K+) landscape photographs from Wikimedia Commons, picked to look
+{total} high-resolution (4K+) photographs from Wikimedia Commons and Unsplash, picked to look
 good as macOS desktop wallpapers, across {places} places.
 
 - `images/<place>-NN-name.jpg` - the wallpapers (flat, so macOS can pick the folder)

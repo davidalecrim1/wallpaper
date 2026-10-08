@@ -1,11 +1,11 @@
 # Attribution
 
-Every image in this repository comes from **Wikimedia Commons** and is published
-under a free licence (Creative Commons or public domain). Reuse must keep the
-author credit, the licence name and a link to the licence.
+Images come from **Wikimedia Commons** (Creative Commons / public domain) and
+**Unsplash** (the Unsplash License). Reuse must keep the author credit, the licence
+name and a link to the licence.
 
-Full-resolution sources are throttled by Wikimedia, so most files here are the
-standard 3840px render; the `Resolution` line shows the actual pixels stored and,
+Commons files are the standard 3840px render (originals are throttled); Unsplash
+files were fetched at 3840px. The `Resolution` line shows the actual pixels stored and,
 where relevant, the size of the original upload.
 
 ## Switzerland
@@ -117,6 +117,15 @@ where relevant, the size of the original upload.
 - **Resolution:** 3840 x 2560 px (from a 6000 x 4000 px original)
 - **Source:** https://upload.wikimedia.org/wikipedia/commons/3/37/View_of_Lake_Thun.jpg
 - **Date:** 2022-05-18 15:46:58
+
+### `images/switzerland-14-matterhorn-starry-night.jpg`
+
+- **Title:** [Unsplash photo oNWvPQXoEKc](https://unsplash.com/photos/oNWvPQXoEKc)
+- **Author:** Claudio Schwarz
+- **Licence:** [Unsplash License](https://unsplash.com/license)
+- **Resolution:** 6205 x 4139 px
+- **Source:** https://unsplash.com/photos/oNWvPQXoEKc
+- **Date:** n/a
 
 ## Paris
 
@@ -356,6 +365,70 @@ where relevant, the size of the original upload.
 - **Resolution:** 3840 x 2560 px (from a 6000 x 4000 px original)
 - **Source:** https://upload.wikimedia.org/wikipedia/commons/b/bf/PuentedelaMujer.jpg
 - **Date:** 2017-11-04 15:06:23
+
+## Alps
+
+### `images/alps-01-milky-way-lake-reflection.jpg`
+
+- **Title:** [Unsplash photo HUYPJupBvwE](https://unsplash.com/photos/HUYPJupBvwE)
+- **Author:** Pascal Debrunner
+- **Licence:** [Unsplash License](https://unsplash.com/license)
+- **Resolution:** 6000 x 4000 px
+- **Source:** https://unsplash.com/photos/HUYPJupBvwE
+- **Date:** n/a
+
+## Chicago
+
+### `images/chicago-01-skyline-sunset.jpg`
+
+- **Title:** [Unsplash photo Nyvq2juw4_o](https://unsplash.com/photos/Nyvq2juw4_o)
+- **Author:** Pedro Lastra
+- **Licence:** [Unsplash License](https://unsplash.com/license)
+- **Resolution:** 3840 x 2362 px
+- **Source:** https://unsplash.com/photos/Nyvq2juw4_o
+- **Date:** n/a
+
+## Cinque Terre
+
+### `images/cinque-terre-01-manarola-sunset.jpg`
+
+- **Title:** [Unsplash photo cYrMQA7a3Wc](https://unsplash.com/photos/cYrMQA7a3Wc)
+- **Author:** Anders Jilden
+- **Licence:** [Unsplash License](https://unsplash.com/license)
+- **Resolution:** 3840 x 2560 px
+- **Source:** https://unsplash.com/photos/cYrMQA7a3Wc
+- **Date:** n/a
+
+## Dolomites
+
+### `images/dolomites-01-rocky-peak-sunset.jpg`
+
+- **Title:** [Unsplash photo CSpjU6hYo_0](https://unsplash.com/photos/CSpjU6hYo_0)
+- **Author:** Cristina Gottardi
+- **Licence:** [Unsplash License](https://unsplash.com/license)
+- **Resolution:** 4896 x 3264 px
+- **Source:** https://unsplash.com/photos/CSpjU6hYo_0
+- **Date:** n/a
+
+### `images/dolomites-02-alpenglow-ridge.jpg`
+
+- **Title:** [Unsplash photo JgOeRuGD_Y4](https://unsplash.com/photos/JgOeRuGD_Y4)
+- **Author:** John Towner
+- **Licence:** [Unsplash License](https://unsplash.com/license)
+- **Resolution:** 7952 x 5304 px
+- **Source:** https://unsplash.com/photos/JgOeRuGD_Y4
+- **Date:** n/a
+
+## Iceland
+
+### `images/iceland-01-aurora-lagoon.jpg`
+
+- **Title:** [Unsplash photo Ovn1hyBge38](https://unsplash.com/photos/Ovn1hyBge38)
+- **Author:** v2osk
+- **Licence:** [Unsplash License](https://unsplash.com/license)
+- **Resolution:** 7360 x 4912 px
+- **Source:** https://unsplash.com/photos/Ovn1hyBge38
+- **Date:** n/a
 
 ## Nebula
 

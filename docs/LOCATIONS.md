@@ -2,7 +2,7 @@
 
 | Place | Images | Folder |
 | --- | --- | --- |
-| Switzerland | 12 | `images/switzerland-*` |
+| Switzerland | 13 | `images/switzerland-*` |
 | Paris | 3 | `images/paris-*` |
 | London | 6 | `images/london-*` |
 | Madrid | 2 | `images/madrid-*` |
@@ -10,6 +10,11 @@
 | Disneyland | 1 | `images/disneyland-*` |
 | Chile (Atacama & Santiago) | 6 | `images/chile-*` |
 | Argentina (Buenos Aires) | 3 | `images/argentina-*` |
+| Alps | 1 | `images/alps-*` |
+| Chicago | 1 | `images/chicago-*` |
+| Cinque Terre | 1 | `images/cinque-terre-*` |
+| Dolomites | 2 | `images/dolomites-*` |
+| Iceland | 1 | `images/iceland-*` |
 | Nebula | 10 | `images/nebula-*` |
 | Spacex Launches | 2 | `images/spacex-launches-*` |
 
@@ -29,6 +34,7 @@
 - `images/switzerland-10-murren-valley.jpg` - Wandern in Mürren.jpg
 - `images/switzerland-11-lake-zug.jpg` - Zugersee vom Ufer in Zug.jpg
 - `images/switzerland-13-lake-thun.jpg` - View of Lake Thun.jpg
+- `images/switzerland-14-matterhorn-starry-night.jpg` - Unsplash photo oNWvPQXoEKc
 
 ### Paris
 
@@ -75,6 +81,27 @@
 - `images/argentina-01-puerto-madero-puente-mujer-44673627614.jpg` - Puerto Madero - Puente de la mujer (44673627614).jpg
 - `images/argentina-04-puente-mujer-puerto-madero-noviembre-2018.jpg` - Puente de la Mujer de Puerto Madero - Noviembre 2018.jpg
 - `images/argentina-05-puentedelamujer.jpg` - PuentedelaMujer.jpg
+
+### Alps
+
+- `images/alps-01-milky-way-lake-reflection.jpg` - Unsplash photo HUYPJupBvwE
+
+### Chicago
+
+- `images/chicago-01-skyline-sunset.jpg` - Unsplash photo Nyvq2juw4_o
+
+### Cinque Terre
+
+- `images/cinque-terre-01-manarola-sunset.jpg` - Unsplash photo cYrMQA7a3Wc
+
+### Dolomites
+
+- `images/dolomites-01-rocky-peak-sunset.jpg` - Unsplash photo CSpjU6hYo_0
+- `images/dolomites-02-alpenglow-ridge.jpg` - Unsplash photo JgOeRuGD_Y4
+
+### Iceland
+
+- `images/iceland-01-aurora-lagoon.jpg` - Unsplash photo Ovn1hyBge38
 
 ### Nebula
 
