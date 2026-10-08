@@ -1,6 +1,6 @@
 # Wallpapers
 
-86 high-resolution (4K+) photographs from Wikimedia Commons and Unsplash, picked to look
+81 high-resolution (4K+) photographs from Wikimedia Commons and Unsplash, picked to look
 good as macOS desktop wallpapers, across 15 places.
 
 - `images/<place>-NN-name.jpg` - the wallpapers (flat, so macOS can pick the folder)

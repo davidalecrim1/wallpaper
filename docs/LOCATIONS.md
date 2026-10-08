@@ -14,7 +14,7 @@
 | Chicago | 1 | `images/chicago-*` |
 | Cinque Terre | 1 | `images/cinque-terre-*` |
 | Dolomites | 2 | `images/dolomites-*` |
-| Iceland | 31 | `images/iceland-*` |
+| Iceland | 26 | `images/iceland-*` |
 | Nebula | 10 | `images/nebula-*` |
 | Spacex Launches | 2 | `images/spacex-launches-*` |
 
@@ -103,12 +103,10 @@
 
 - `images/iceland-01-aurora-lagoon.jpg` - Unsplash photo Ovn1hyBge38
 - `images/iceland-02-seljalandsfoss-su-urland-islandia-2014-08.jpg` - Seljalandsfoss, Suðurland, Islandia, 2014-08-16, DD 201-203 HDR.JPG
-- `images/iceland-03-faro-de-holmbergs-su-urnes-islandia.jpg` - Faro de Holmbergs, Suðurnes, Islandia, 2014-08-15, DD 114.JPG
 - `images/iceland-04-ca-n-silfra-parque-nacional-de.jpg` - Cañón Silfra, Parque Nacional de Þingvellir, Suðurland, Islandia, 2014-08-16, DD 055.JPG
 - `images/iceland-05-xar-rfoss-parque-nacional-de.jpg` - Öxarárfoss, Parque Nacional de Þingvellir, Suðurland, Islandia, 2014-08-16, DD 029.JPG
 - `images/iceland-06-vista-a-rea-del-suroeste-de.jpg` - Vista aérea del suroeste de Islandia, 2014-08-13, DD 003.JPG
 - `images/iceland-07-roca-de-la-ley-parque-nacional.jpg` - Roca de la Ley, Parque Nacional de Þingvellir, Suðurland, Islandia, 2014-08-16, DD 019.jpg
-- `images/iceland-08-b-landsh-f-i-vesturland-islandia.jpg` - Búlandshöfði, Vesturland, Islandia, 2014-08-14, DD 085.JPG
 - `images/iceland-09-caseta-cerca-de-hvolsv-llur-su.jpg` - Caseta cerca de Hvolsvöllur, Suðurland, Islandia, 2014-08-16, DD 213.JPG
 - `images/iceland-10-gullfoss-su-urland-islandia-2014-08.jpg` - Gullfoss, Suðurland, Islandia, 2014-08-16, DD 123.JPG
 - `images/iceland-11-reynisfjara-su-urland-islandia-2014-08.jpg` - Reynisfjara, Suðurland, Islandia, 2014-08-17, DD 164.JPG
@@ -119,14 +117,11 @@
 - `images/iceland-16-antiguo-faro-de-akranes-vesturland-islandia.jpg` - Antiguo faro de Akranes, Vesturland, Islandia, 2014-08-14, DD 008.JPG
 - `images/iceland-17-caba-a-subterr-nea-en-la.jpg` - Cabaña subterránea en la región de Búðahraun, Vesturland, Islandia, 2014-08-14, DD 046.JPG
 - `images/iceland-18-roca-del-elefante-heimaey-islas-vestman.jpg` - Roca del elefante, Heimaey, Islas Vestman, Suðurland, Islandia, 2014-08-17, DD 036.JPG
-- `images/iceland-19-r-o-dynjandis-vestfir-ir-islandia.jpg` - Río Dynjandisá, Vestfirðir, Islandia, 2014-08-14, DD 118-120 HDR.JPG
 - `images/iceland-20-paisaje-en-la-regi-n-de.jpg` - Paisaje en la región de Suðurland, Islandia, 2014-08-13, DD 079.JPG
 - `images/iceland-21-paisajes-de-lafsv-k-vesturland-islandia.jpg` - Paisajes de Ólafsvík, Vesturland, Islandia, 2014-08-14, DD 068.JPG
 - `images/iceland-22-vista-del-lago-ingvallavatn-parque-nacional.jpg` - Vista del lago Þingvallavatn, Parque Nacional de Þingvellir, Suðurland, Islandia, 2014-08-16, DD 063.JPG
 - `images/iceland-23-ca-n-nikulasargja-parque-nacional-de.jpg` - Cañón Nikulasargja, Parque Nacional de Þingvellir, Vesturland, Islandia, 2014-08-16, DD 044.JPG
-- `images/iceland-24-refleksjoner.jpg` - Refleksjoner.jpg
 - `images/iceland-25-ca-n-flosagja-parque-nacional-de.jpg` - Cañón Flosagja, Parque Nacional de Þingvellir, Suðurland, Islandia, 2014-08-16, DD 042.JPG
-- `images/iceland-26-iglesia-de-postes-de-heimaey-islas.jpg` - Iglesia de postes de Heimaey, Islas Vestman, Suðurland, Islandia, 2014-08-17, DD 097.JPG
 - `images/iceland-27-arnarfell-parque-nacional-de-ingvellir-su.jpg` - Arnarfell, Parque Nacional de Þingvellir, Suðurland, Islandia, 2014-08-16, DD 058.JPG
 - `images/iceland-28-iceland-2017-02-22-gullfoss-3677.jpg` - Iceland - 2017-02-22 - Gullfoss - 3677.jpg
 - `images/iceland-29-puerto-de-vestmannaeyjar-heimaey-islas-vestman.jpg` - Puerto de Vestmannaeyjar, Heimaey, Islas Vestman, Suðurland, Islandia, 2014-08-17, DD 087.JPG
