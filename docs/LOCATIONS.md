@@ -15,6 +15,8 @@
 | Cinque Terre | 1 | `images/cinque-terre-*` |
 | Dolomites | 2 | `images/dolomites-*` |
 | Iceland | 26 | `images/iceland-*` |
+| Iseltwald | 1 | `images/iseltwald-*` |
+| Lake Brienz | 2 | `images/lake-brienz-*` |
 | Nebula | 10 | `images/nebula-*` |
 | Spacex Launches | 2 | `images/spacex-launches-*` |
 
@@ -127,6 +129,15 @@
 - `images/iceland-29-puerto-de-vestmannaeyjar-heimaey-islas-vestman.jpg` - Puerto de Vestmannaeyjar, Heimaey, Islas Vestman, Suðurland, Islandia, 2014-08-17, DD 087.JPG
 - `images/iceland-30-reserva-natural-de-vatnsfj-r-ur.jpg` - Reserva natural de Vatnsfjörður, Vestfirðir, Islandia, 2014-08-14, DD 113.JPG
 - `images/iceland-31-acantilados-de-heimaey-islas-vestman-su.jpg` - Acantilados de Heimaey, Islas Vestman, Suðurland, Islandia, 2014-08-17, DD 026.JPG
+
+### Iseltwald
+
+- `images/iseltwald-02-iseltwald-am-brienzersee.jpg` - Iseltwald am Brienzersee.JPG
+
+### Lake Brienz
+
+- `images/lake-brienz-02-lake-brienz-14768465202.jpg` - Lake Brienz (14768465202).jpg
+- `images/lake-brienz-03-brienzersee-seen-from-b-nigen-2022.jpg` - Brienzersee seen from Bönigen 2022-10-02 01.jpg
 
 ### Nebula
 

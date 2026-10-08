@@ -30,8 +30,9 @@ GENERIC_POSITIVE = {
     r"landscape|scenery|scenic|paisaje|paisagem|landschaft|paysage|vista|viewpoint|overlook": 5,
     r"panorama|panoramic|aerial": 4,
     r"sunset|sunrise|dusk|dawn|golden hour|blue hour|twilight|night sky|stargaz|milky way|aurora": 4,
-    r"mountain|alps|valley|lake|river|coast|beach|desert|glacier|waterfall|forest|"
-    r"island|cliff|fjord|canyon|meadow|field|sky|cloud|fog|mist|snow|reflect": 3,
+    r"\b(mountain|mountains|alps|valley|valleys|lake|lakes|river|coast|beach|desert|"
+    r"glacier|waterfall|forest|island|cliff|fjord|canyon|meadow|field|sky|cloud|fog|"
+    r"mist|snow|reflect|reflection)\b": 3,
     r"liftoff|\blaunch\b|launching|launch of|night launch": 4,
     r"falcon 9|falcon heavy|starship|super heavy|rocket|spacex|artemis|saturn v": 2,
     r"nebula|galaxy|planet|outer space|earth from|astronaut|satellite|mars|moon|milky way": 3,
@@ -49,6 +50,7 @@ NEGATIVE = re.compile(
     r"painting|artwork|mural|graffiti|fresco|sculpture|statue of|bust|lithograph|"
     r"engraving|caricature|print|map|diagram|logo|coat of arms|flag|banknote|stamp|"
     r"document|construction|hangar|facilit|scaffold|assembly building|"
+    r"landing stage|jetty|pier|dock|harbour|harbor|berth|"
     # people
     r"people|person|persons|human|man|men|woman|women|boy|girl|child|children|kid|"
     r"baby|family|couple|portrait|selfie|face|headshot|pedestrian|tourist|visitor|"
@@ -59,7 +61,8 @@ NEGATIVE = re.compile(
     r"protest|demonstration|marcha|riot|strike|parade|procession|military|soldier|"
     r"police|guard|worker|worker|staff|vendor|waiter|costume|cosplay|"
     r"food|dish|meal|restaurant|diner|menu|market stall|shop window|"
-    r"ship|hms|mine|tractor|locomotive|train|railway|wreck|"
+    r"ship|hms|boat|ferry|steamboat|schiff|dampfschiff|kayak|canoe|mine|tractor|"
+    r"locomotive|train|railway|wreck|"
     r"swan|goose|duck|flamingo|turtle|bird|gull|condor|penguin|seal|lion|horse|cow|"
     r"cemetery|cementerio|grave|tomb|funeral|museum|museo)\b",
     re.I,
@@ -234,9 +237,11 @@ def collect_search(target: str, seen: set[str], limit: int) -> list[dict]:
     return rows
 
 
-def score(row: dict) -> float:
+def score(row: dict, target: str = "") -> float:
     text = row["title"] + " " + row["description"]
     s = float(row["tier"]) * 6
+    if target and target.lower() in text.lower():
+        s += 5
     for pat, weight in GENERIC_POSITIVE.items():
         if re.search(pat, text, re.I):
             s += weight
@@ -254,8 +259,8 @@ def score(row: dict) -> float:
     return round(s, 2)
 
 
-def select(rows: list[dict], count: int) -> list[dict]:
-    good = [(score(r), r) for r in rows if not NEGATIVE.search(r["title"] + " " + r["description"])]
+def select(rows: list[dict], count: int, target: str = "") -> list[dict]:
+    good = [(score(r, target), r) for r in rows if not NEGATIVE.search(r["title"] + " " + r["description"])]
     good.sort(key=lambda x: -x[0])
     used: dict[str, int] = {}
     chosen = []
@@ -339,7 +344,7 @@ def main() -> None:
         print(f"search candidates: {len(extra)}")
         rows.extend(extra)
 
-    picks = select(rows, args.count)
+    picks = select(rows, args.count, args.target)
     print(f"\nselected {len(picks)}/{args.count}")
     for row in picks:
         print(f"  {row['score']:5} {row['width']}x{row['height']} {row['aspect']:<6} "

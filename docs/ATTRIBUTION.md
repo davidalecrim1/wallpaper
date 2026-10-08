@@ -655,6 +655,37 @@ where relevant, the size of the original upload.
 - **Source:** https://upload.wikimedia.org/wikipedia/commons/9/9e/Acantilados_de_Heimaey%2C_Islas_Vestman%2C_Su%C3%B0urland%2C_Islandia%2C_2014-08-17%2C_DD_026.JPG
 - **Date:** Taken on 17 August 2
 
+## Iseltwald
+
+### `images/iseltwald-02-iseltwald-am-brienzersee.jpg`
+
+- **Title:** [Iseltwald am Brienzersee.JPG](https://commons.wikimedia.org/wiki/File:Iseltwald_am_Brienzersee.JPG)
+- **Author:** Fanny88 und Sheepy86
+- **Licence:** [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)
+- **Resolution:** 3840 x 2563 px (from a 6016 x 4016 px original)
+- **Source:** https://upload.wikimedia.org/wikipedia/commons/4/43/Iseltwald_am_Brienzersee.JPG
+- **Date:** 2013-07-15 11:34:17
+
+## Lake Brienz
+
+### `images/lake-brienz-02-lake-brienz-14768465202.jpg`
+
+- **Title:** [Lake Brienz (14768465202).jpg](https://commons.wikimedia.org/wiki/File:Lake_Brienz_(14768465202).jpg)
+- **Author:** Rennett Stowe from USA
+- **Licence:** [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
+- **Resolution:** 3840 x 2323 px (from a 5760 x 3485 px original)
+- **Source:** https://upload.wikimedia.org/wikipedia/commons/d/d2/Lake_Brienz_%2814768465202%29.jpg
+- **Date:** 2014-07-01 13:16
+
+### `images/lake-brienz-03-brienzersee-seen-from-b-nigen-2022.jpg`
+
+- **Title:** [Brienzersee seen from Bönigen 2022-10-02 01.jpg](https://commons.wikimedia.org/wiki/File:Brienzersee_seen_from_B%C3%B6nigen_2022-10-02_01.jpg)
+- **Author:** Leonhard Lenz
+- **Licence:** [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en)
+- **Resolution:** 3840 x 2562 px (from a 8368 x 5584 px original)
+- **Source:** https://upload.wikimedia.org/wikipedia/commons/7/7f/Brienzersee_seen_from_B%C3%B6nigen_2022-10-02_01.jpg
+- **Date:** 2022-10-02 18:53:36
+
 ## Nebula
 
 ### `images/nebula-01-carina-nebula.jpg`
