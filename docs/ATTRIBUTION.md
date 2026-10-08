@@ -430,6 +430,276 @@ where relevant, the size of the original upload.
 - **Source:** https://unsplash.com/photos/Ovn1hyBge38
 - **Date:** n/a
 
+### `images/iceland-02-seljalandsfoss-su-urland-islandia-2014-08.jpg`
+
+- **Title:** [Seljalandsfoss, Suðurland, Islandia, 2014-08-16, DD 201-203 HDR.JPG](https://commons.wikimedia.org/wiki/File:Seljalandsfoss,_Su%C3%B0urland,_Islandia,_2014-08-16,_DD_201-203_HDR.JPG)
+- **Author:** Diego Delso
+- **Licence:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+- **Resolution:** 3840 x 2474 px (from a 4952 x 3191 px original)
+- **Source:** https://upload.wikimedia.org/wikipedia/commons/6/69/Seljalandsfoss%2C_Su%C3%B0urland%2C_Islandia%2C_2014-08-16%2C_DD_201-203_HDR.JPG
+- **Date:** Taken on 16 August 2
+
+### `images/iceland-03-faro-de-holmbergs-su-urnes-islandia.jpg`
+
+- **Title:** [Faro de Holmbergs, Suðurnes, Islandia, 2014-08-15, DD 114.JPG](https://commons.wikimedia.org/wiki/File:Faro_de_Holmbergs,_Su%C3%B0urnes,_Islandia,_2014-08-15,_DD_114.JPG)
+- **Author:** Diego Delso
+- **Licence:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+- **Resolution:** 5603 x 3021 px
+- **Source:** https://upload.wikimedia.org/wikipedia/commons/f/fd/Faro_de_Holmbergs%2C_Su%C3%B0urnes%2C_Islandia%2C_2014-08-15%2C_DD_114.JPG
+- **Date:** Taken on 15 August 2
+
+### `images/iceland-04-ca-n-silfra-parque-nacional-de.jpg`
+
+- **Title:** [Cañón Silfra, Parque Nacional de Þingvellir, Suðurland, Islandia, 2014-08-16, DD 055.JPG](https://commons.wikimedia.org/wiki/File:Ca%C3%B1%C3%B3n_Silfra,_Parque_Nacional_de_%C3%9Eingvellir,_Su%C3%B0urland,_Islandia,_2014-08-16,_DD_055.JPG)
+- **Author:** Diego Delso
+- **Licence:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+- **Resolution:** 3840 x 2271 px (from a 5616 x 3321 px original)
+- **Source:** https://upload.wikimedia.org/wikipedia/commons/a/a3/Ca%C3%B1%C3%B3n_Silfra%2C_Parque_Nacional_de_%C3%9Eingvellir%2C_Su%C3%B0urland%2C_Islandia%2C_2014-08-16%2C_DD_055.JPG
+- **Date:** Taken on 16 August 2
+
+### `images/iceland-05-xar-rfoss-parque-nacional-de.jpg`
+
+- **Title:** [Öxarárfoss, Parque Nacional de Þingvellir, Suðurland, Islandia, 2014-08-16, DD 029.JPG](https://commons.wikimedia.org/wiki/File:%C3%96xar%C3%A1rfoss,_Parque_Nacional_de_%C3%9Eingvellir,_Su%C3%B0urland,_Islandia,_2014-08-16,_DD_029.JPG)
+- **Author:** Diego Delso
+- **Licence:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+- **Resolution:** 3840 x 2363 px (from a 5502 x 3386 px original)
+- **Source:** https://upload.wikimedia.org/wikipedia/commons/6/68/%C3%96xar%C3%A1rfoss%2C_Parque_Nacional_de_%C3%9Eingvellir%2C_Su%C3%B0urland%2C_Islandia%2C_2014-08-16%2C_DD_029.JPG
+- **Date:** Taken on 16 August 2
+
+### `images/iceland-06-vista-a-rea-del-suroeste-de.jpg`
+
+- **Title:** [Vista aérea del suroeste de Islandia, 2014-08-13, DD 003.JPG](https://commons.wikimedia.org/wiki/File:Vista_a%C3%A9rea_del_suroeste_de_Islandia,_2014-08-13,_DD_003.JPG)
+- **Author:** Diego Delso
+- **Licence:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+- **Resolution:** 5547 x 2847 px
+- **Source:** https://upload.wikimedia.org/wikipedia/commons/f/f6/Vista_a%C3%A9rea_del_suroeste_de_Islandia%2C_2014-08-13%2C_DD_003.JPG
+- **Date:** Taken on 13 August 2
+
+### `images/iceland-07-roca-de-la-ley-parque-nacional.jpg`
+
+- **Title:** [Roca de la Ley, Parque Nacional de Þingvellir, Suðurland, Islandia, 2014-08-16, DD 019.jpg](https://commons.wikimedia.org/wiki/File:Roca_de_la_Ley,_Parque_Nacional_de_%C3%9Eingvellir,_Su%C3%B0urland,_Islandia,_2014-08-16,_DD_019.jpg)
+- **Author:** Diego Delso
+- **Licence:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+- **Resolution:** 3840 x 2560 px (from a 5616 x 3744 px original)
+- **Source:** https://upload.wikimedia.org/wikipedia/commons/8/8e/Roca_de_la_Ley%2C_Parque_Nacional_de_%C3%9Eingvellir%2C_Su%C3%B0urland%2C_Islandia%2C_2014-08-16%2C_DD_019.jpg
+- **Date:** Taken on 16 August 2
+
+### `images/iceland-08-b-landsh-f-i-vesturland-islandia.jpg`
+
+- **Title:** [Búlandshöfði, Vesturland, Islandia, 2014-08-14, DD 085.JPG](https://commons.wikimedia.org/wiki/File:B%C3%BAlandsh%C3%B6f%C3%B0i,_Vesturland,_Islandia,_2014-08-14,_DD_085.JPG)
+- **Author:** Diego Delso
+- **Licence:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+- **Resolution:** 3840 x 2320 px (from a 5563 x 3361 px original)
+- **Source:** https://upload.wikimedia.org/wikipedia/commons/1/12/B%C3%BAlandsh%C3%B6f%C3%B0i%2C_Vesturland%2C_Islandia%2C_2014-08-14%2C_DD_085.JPG
+- **Date:** Taken on 14 August 2
+
+### `images/iceland-09-caseta-cerca-de-hvolsv-llur-su.jpg`
+
+- **Title:** [Caseta cerca de Hvolsvöllur, Suðurland, Islandia, 2014-08-16, DD 213.JPG](https://commons.wikimedia.org/wiki/File:Caseta_cerca_de_Hvolsv%C3%B6llur,_Su%C3%B0urland,_Islandia,_2014-08-16,_DD_213.JPG)
+- **Author:** Diego Delso
+- **Licence:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+- **Resolution:** 5332 x 2487 px
+- **Source:** https://upload.wikimedia.org/wikipedia/commons/4/4c/Caseta_cerca_de_Hvolsv%C3%B6llur%2C_Su%C3%B0urland%2C_Islandia%2C_2014-08-16%2C_DD_213.JPG
+- **Date:** Taken on 16 August 2
+
+### `images/iceland-10-gullfoss-su-urland-islandia-2014-08.jpg`
+
+- **Title:** [Gullfoss, Suðurland, Islandia, 2014-08-16, DD 123.JPG](https://commons.wikimedia.org/wiki/File:Gullfoss,_Su%C3%B0urland,_Islandia,_2014-08-16,_DD_123.JPG)
+- **Author:** Diego Delso
+- **Licence:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+- **Resolution:** 3840 x 2372 px (from a 5390 x 3329 px original)
+- **Source:** https://upload.wikimedia.org/wikipedia/commons/8/89/Gullfoss%2C_Su%C3%B0urland%2C_Islandia%2C_2014-08-16%2C_DD_123.JPG
+- **Date:** Taken on 16 August 2
+
+### `images/iceland-11-reynisfjara-su-urland-islandia-2014-08.jpg`
+
+- **Title:** [Reynisfjara, Suðurland, Islandia, 2014-08-17, DD 164.JPG](https://commons.wikimedia.org/wiki/File:Reynisfjara,_Su%C3%B0urland,_Islandia,_2014-08-17,_DD_164.JPG)
+- **Author:** Diego Delso
+- **Licence:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+- **Resolution:** 5015 x 2738 px
+- **Source:** https://upload.wikimedia.org/wikipedia/commons/4/49/Reynisfjara%2C_Su%C3%B0urland%2C_Islandia%2C_2014-08-17%2C_DD_164.JPG
+- **Date:** Taken on 17 August 2
+
+### `images/iceland-12-paisaje-al-atardecer-en-su-urnes.jpg`
+
+- **Title:** [Paisaje al atardecer en Suðurnes, Islandia, 2014-08-15, DD 109.JPG](https://commons.wikimedia.org/wiki/File:Paisaje_al_atardecer_en_Su%C3%B0urnes,_Islandia,_2014-08-15,_DD_109.JPG)
+- **Author:** Diego Delso
+- **Licence:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+- **Resolution:** 3840 x 2307 px (from a 5616 x 3374 px original)
+- **Source:** https://upload.wikimedia.org/wikipedia/commons/c/c0/Paisaje_al_atardecer_en_Su%C3%B0urnes%2C_Islandia%2C_2014-08-15%2C_DD_109.JPG
+- **Date:** Taken on 15 August 2
+
+### `images/iceland-13-paisaje-cerca-de-laugarvatn-su-urland.jpg`
+
+- **Title:** [Paisaje cerca de Laugarvatn, Suðurland, Islandia, 2014-08-16, DD 070.JPG](https://commons.wikimedia.org/wiki/File:Paisaje_cerca_de_Laugarvatn,_Su%C3%B0urland,_Islandia,_2014-08-16,_DD_070.JPG)
+- **Author:** Diego Delso
+- **Licence:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+- **Resolution:** 5615 x 3130 px
+- **Source:** https://upload.wikimedia.org/wikipedia/commons/3/3e/Paisaje_cerca_de_Laugarvatn%2C_Su%C3%B0urland%2C_Islandia%2C_2014-08-16%2C_DD_070.JPG
+- **Date:** Taken on 16 August 2
+
+### `images/iceland-14-paisaje-en-borgarbygg-vesturland-islandia-2014.jpg`
+
+- **Title:** [Paisaje en Borgarbyggð, Vesturland, Islandia, 2014-08-15, DD 080.JPG](https://commons.wikimedia.org/wiki/File:Paisaje_en_Borgarbygg%C3%B0,_Vesturland,_Islandia,_2014-08-15,_DD_080.JPG)
+- **Author:** Diego Delso
+- **Licence:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+- **Resolution:** 3840 x 2296 px (from a 5079 x 3037 px original)
+- **Source:** https://upload.wikimedia.org/wikipedia/commons/8/85/Paisaje_en_Borgarbygg%C3%B0%2C_Vesturland%2C_Islandia%2C_2014-08-15%2C_DD_080.JPG
+- **Date:** Taken on 15 August 2
+
+### `images/iceland-15-vista-de-reikiavik-desde-el-paseo.jpg`
+
+- **Title:** [Vista de Reikiavik desde el Paseo de la Bahía, Distrito de la Capital, Islandia, 2014-08-13, DD 156.JPG](https://commons.wikimedia.org/wiki/File:Vista_de_Reikiavik_desde_el_Paseo_de_la_Bah%C3%ADa,_Distrito_de_la_Capital,_Islandia,_2014-08-13,_DD_156.JPG)
+- **Author:** Diego Delso
+- **Licence:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+- **Resolution:** 5582 x 3057 px
+- **Source:** https://upload.wikimedia.org/wikipedia/commons/4/48/Vista_de_Reikiavik_desde_el_Paseo_de_la_Bah%C3%ADa%2C_Distrito_de_la_Capital%2C_Islandia%2C_2014-08-13%2C_DD_156.JPG
+- **Date:** Taken on 13 August 2
+
+### `images/iceland-16-antiguo-faro-de-akranes-vesturland-islandia.jpg`
+
+- **Title:** [Antiguo faro de Akranes, Vesturland, Islandia, 2014-08-14, DD 008.JPG](https://commons.wikimedia.org/wiki/File:Antiguo_faro_de_Akranes,_Vesturland,_Islandia,_2014-08-14,_DD_008.JPG)
+- **Author:** Diego Delso
+- **Licence:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+- **Resolution:** 5588 x 2778 px
+- **Source:** https://upload.wikimedia.org/wikipedia/commons/9/99/Antiguo_faro_de_Akranes%2C_Vesturland%2C_Islandia%2C_2014-08-14%2C_DD_008.JPG
+- **Date:** Taken on 14 August 2
+
+### `images/iceland-17-caba-a-subterr-nea-en-la.jpg`
+
+- **Title:** [Cabaña subterránea en la región de Búðahraun, Vesturland, Islandia, 2014-08-14, DD 046.JPG](https://commons.wikimedia.org/wiki/File:Caba%C3%B1a_subterr%C3%A1nea_en_la_regi%C3%B3n_de_B%C3%BA%C3%B0ahraun,_Vesturland,_Islandia,_2014-08-14,_DD_046.JPG)
+- **Author:** Diego Delso
+- **Licence:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+- **Resolution:** 3840 x 2560 px (from a 5616 x 3744 px original)
+- **Source:** https://upload.wikimedia.org/wikipedia/commons/1/1f/Caba%C3%B1a_subterr%C3%A1nea_en_la_regi%C3%B3n_de_B%C3%BA%C3%B0ahraun%2C_Vesturland%2C_Islandia%2C_2014-08-14%2C_DD_046.JPG
+- **Date:** Taken on 14 August 2
+
+### `images/iceland-18-roca-del-elefante-heimaey-islas-vestman.jpg`
+
+- **Title:** [Roca del elefante, Heimaey, Islas Vestman, Suðurland, Islandia, 2014-08-17, DD 036.JPG](https://commons.wikimedia.org/wiki/File:Roca_del_elefante,_Heimaey,_Islas_Vestman,_Su%C3%B0urland,_Islandia,_2014-08-17,_DD_036.JPG)
+- **Author:** Diego Delso
+- **Licence:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+- **Resolution:** 3840 x 2711 px (from a 5444 x 3843 px original)
+- **Source:** https://upload.wikimedia.org/wikipedia/commons/0/0f/Roca_del_elefante%2C_Heimaey%2C_Islas_Vestman%2C_Su%C3%B0urland%2C_Islandia%2C_2014-08-17%2C_DD_036.JPG
+- **Date:** Taken on 17 August 2
+
+### `images/iceland-19-r-o-dynjandis-vestfir-ir-islandia.jpg`
+
+- **Title:** [Río Dynjandisá, Vestfirðir, Islandia, 2014-08-14, DD 118-120 HDR.JPG](https://commons.wikimedia.org/wiki/File:R%C3%ADo_Dynjandis%C3%A1,_Vestfir%C3%B0ir,_Islandia,_2014-08-14,_DD_118-120_HDR.JPG)
+- **Author:** Diego Delso
+- **Licence:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+- **Resolution:** 3840 x 2560 px (from a 5616 x 3744 px original)
+- **Source:** https://upload.wikimedia.org/wikipedia/commons/4/44/R%C3%ADo_Dynjandis%C3%A1%2C_Vestfir%C3%B0ir%2C_Islandia%2C_2014-08-14%2C_DD_118-120_HDR.JPG
+- **Date:** Taken on 14 August 2
+
+### `images/iceland-20-paisaje-en-la-regi-n-de.jpg`
+
+- **Title:** [Paisaje en la región de Suðurland, Islandia, 2014-08-13, DD 079.JPG](https://commons.wikimedia.org/wiki/File:Paisaje_en_la_regi%C3%B3n_de_Su%C3%B0urland,_Islandia,_2014-08-13,_DD_079.JPG)
+- **Author:** Diego Delso
+- **Licence:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+- **Resolution:** 5616 x 2788 px
+- **Source:** https://upload.wikimedia.org/wikipedia/commons/0/04/Paisaje_en_la_regi%C3%B3n_de_Su%C3%B0urland%2C_Islandia%2C_2014-08-13%2C_DD_079.JPG
+- **Date:** Taken on 13 August 2
+
+### `images/iceland-21-paisajes-de-lafsv-k-vesturland-islandia.jpg`
+
+- **Title:** [Paisajes de Ólafsvík, Vesturland, Islandia, 2014-08-14, DD 068.JPG](https://commons.wikimedia.org/wiki/File:Paisajes_de_%C3%93lafsv%C3%ADk,_Vesturland,_Islandia,_2014-08-14,_DD_068.JPG)
+- **Author:** Diego Delso
+- **Licence:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+- **Resolution:** 3840 x 2489 px (from a 5497 x 3563 px original)
+- **Source:** https://upload.wikimedia.org/wikipedia/commons/9/9f/Paisajes_de_%C3%93lafsv%C3%ADk%2C_Vesturland%2C_Islandia%2C_2014-08-14%2C_DD_068.JPG
+- **Date:** Taken on 14 August 2
+
+### `images/iceland-22-vista-del-lago-ingvallavatn-parque-nacional.jpg`
+
+- **Title:** [Vista del lago Þingvallavatn, Parque Nacional de Þingvellir, Suðurland, Islandia, 2014-08-16, DD 063.JPG](https://commons.wikimedia.org/wiki/File:Vista_del_lago_%C3%9Eingvallavatn,_Parque_Nacional_de_%C3%9Eingvellir,_Su%C3%B0urland,_Islandia,_2014-08-16,_DD_063.JPG)
+- **Author:** Diego Delso
+- **Licence:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+- **Resolution:** 5616 x 2866 px
+- **Source:** https://upload.wikimedia.org/wikipedia/commons/d/d9/Vista_del_lago_%C3%9Eingvallavatn%2C_Parque_Nacional_de_%C3%9Eingvellir%2C_Su%C3%B0urland%2C_Islandia%2C_2014-08-16%2C_DD_063.JPG
+- **Date:** Taken on 16 August 2
+
+### `images/iceland-23-ca-n-nikulasargja-parque-nacional-de.jpg`
+
+- **Title:** [Cañón Nikulasargja, Parque Nacional de Þingvellir, Vesturland, Islandia, 2014-08-16, DD 044.JPG](https://commons.wikimedia.org/wiki/File:Ca%C3%B1%C3%B3n_Nikulasargja,_Parque_Nacional_de_%C3%9Eingvellir,_Vesturland,_Islandia,_2014-08-16,_DD_044.JPG)
+- **Author:** Diego Delso
+- **Licence:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+- **Resolution:** 3840 x 2349 px (from a 5580 x 3413 px original)
+- **Source:** https://upload.wikimedia.org/wikipedia/commons/2/2a/Ca%C3%B1%C3%B3n_Nikulasargja%2C_Parque_Nacional_de_%C3%9Eingvellir%2C_Vesturland%2C_Islandia%2C_2014-08-16%2C_DD_044.JPG
+- **Date:** Taken on 16 August 2
+
+### `images/iceland-24-refleksjoner.jpg`
+
+- **Title:** [Refleksjoner.jpg](https://commons.wikimedia.org/wiki/File:Refleksjoner.jpg)
+- **Author:** Karin Beate Nøsterud
+- **Licence:** [CC BY 2.5 dk](https://creativecommons.org/licenses/by/2.5/dk/deed.en)
+- **Resolution:** 3840 x 2560 px (from a 5616 x 3744 px original)
+- **Source:** https://upload.wikimedia.org/wikipedia/commons/5/51/Refleksjoner.jpg
+- **Date:** Taken on 28 August 2
+
+### `images/iceland-25-ca-n-flosagja-parque-nacional-de.jpg`
+
+- **Title:** [Cañón Flosagja, Parque Nacional de Þingvellir, Suðurland, Islandia, 2014-08-16, DD 042.JPG](https://commons.wikimedia.org/wiki/File:Ca%C3%B1%C3%B3n_Flosagja,_Parque_Nacional_de_%C3%9Eingvellir,_Su%C3%B0urland,_Islandia,_2014-08-16,_DD_042.JPG)
+- **Author:** Diego Delso
+- **Licence:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+- **Resolution:** 3840 x 2192 px (from a 4871 x 2780 px original)
+- **Source:** https://upload.wikimedia.org/wikipedia/commons/2/20/Ca%C3%B1%C3%B3n_Flosagja%2C_Parque_Nacional_de_%C3%9Eingvellir%2C_Su%C3%B0urland%2C_Islandia%2C_2014-08-16%2C_DD_042.JPG
+- **Date:** Taken on 16 August 2
+
+### `images/iceland-26-iglesia-de-postes-de-heimaey-islas.jpg`
+
+- **Title:** [Iglesia de postes de Heimaey, Islas Vestman, Suðurland, Islandia, 2014-08-17, DD 097.JPG](https://commons.wikimedia.org/wiki/File:Iglesia_de_postes_de_Heimaey,_Islas_Vestman,_Su%C3%B0urland,_Islandia,_2014-08-17,_DD_097.JPG)
+- **Author:** Diego Delso
+- **Licence:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+- **Resolution:** 5616 x 3067 px
+- **Source:** https://upload.wikimedia.org/wikipedia/commons/2/2a/Iglesia_de_postes_de_Heimaey%2C_Islas_Vestman%2C_Su%C3%B0urland%2C_Islandia%2C_2014-08-17%2C_DD_097.JPG
+- **Date:** Taken on 17 August 2
+
+### `images/iceland-27-arnarfell-parque-nacional-de-ingvellir-su.jpg`
+
+- **Title:** [Arnarfell, Parque Nacional de Þingvellir, Suðurland, Islandia, 2014-08-16, DD 058.JPG](https://commons.wikimedia.org/wiki/File:Arnarfell,_Parque_Nacional_de_%C3%9Eingvellir,_Su%C3%B0urland,_Islandia,_2014-08-16,_DD_058.JPG)
+- **Author:** Diego Delso
+- **Licence:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+- **Resolution:** 5616 x 2887 px
+- **Source:** https://upload.wikimedia.org/wikipedia/commons/f/fe/Arnarfell%2C_Parque_Nacional_de_%C3%9Eingvellir%2C_Su%C3%B0urland%2C_Islandia%2C_2014-08-16%2C_DD_058.JPG
+- **Date:** Taken on 16 August 2
+
+### `images/iceland-28-iceland-2017-02-22-gullfoss-3677.jpg`
+
+- **Title:** [Iceland - 2017-02-22 - Gullfoss - 3677.jpg](https://commons.wikimedia.org/wiki/File:Iceland_-_2017-02-22_-_Gullfoss_-_3677.jpg)
+- **Author:** Pierre-Selim Huard
+- **Licence:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0)
+- **Resolution:** 5184 x 2916 px
+- **Source:** https://upload.wikimedia.org/wikipedia/commons/e/ee/Iceland_-_2017-02-22_-_Gullfoss_-_3677.jpg
+- **Date:** Taken on 22 February
+
+### `images/iceland-29-puerto-de-vestmannaeyjar-heimaey-islas-vestman.jpg`
+
+- **Title:** [Puerto de Vestmannaeyjar, Heimaey, Islas Vestman, Suðurland, Islandia, 2014-08-17, DD 087.JPG](https://commons.wikimedia.org/wiki/File:Puerto_de_Vestmannaeyjar,_Heimaey,_Islas_Vestman,_Su%C3%B0urland,_Islandia,_2014-08-17,_DD_087.JPG)
+- **Author:** Diego Delso
+- **Licence:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+- **Resolution:** 3840 x 2257 px (from a 5219 x 3067 px original)
+- **Source:** https://upload.wikimedia.org/wikipedia/commons/d/d3/Puerto_de_Vestmannaeyjar%2C_Heimaey%2C_Islas_Vestman%2C_Su%C3%B0urland%2C_Islandia%2C_2014-08-17%2C_DD_087.JPG
+- **Date:** Taken on 17 August 2
+
+### `images/iceland-30-reserva-natural-de-vatnsfj-r-ur.jpg`
+
+- **Title:** [Reserva natural de Vatnsfjörður, Vestfirðir, Islandia, 2014-08-14, DD 113.JPG](https://commons.wikimedia.org/wiki/File:Reserva_natural_de_Vatnsfj%C3%B6r%C3%B0ur,_Vestfir%C3%B0ir,_Islandia,_2014-08-14,_DD_113.JPG)
+- **Author:** Diego Delso
+- **Licence:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+- **Resolution:** 5615 x 3056 px
+- **Source:** https://upload.wikimedia.org/wikipedia/commons/5/52/Reserva_natural_de_Vatnsfj%C3%B6r%C3%B0ur%2C_Vestfir%C3%B0ir%2C_Islandia%2C_2014-08-14%2C_DD_113.JPG
+- **Date:** Taken on 14 August 2
+
+### `images/iceland-31-acantilados-de-heimaey-islas-vestman-su.jpg`
+
+- **Title:** [Acantilados de Heimaey, Islas Vestman, Suðurland, Islandia, 2014-08-17, DD 026.JPG](https://commons.wikimedia.org/wiki/File:Acantilados_de_Heimaey,_Islas_Vestman,_Su%C3%B0urland,_Islandia,_2014-08-17,_DD_026.JPG)
+- **Author:** Diego Delso
+- **Licence:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+- **Resolution:** 5616 x 3068 px
+- **Source:** https://upload.wikimedia.org/wikipedia/commons/9/9e/Acantilados_de_Heimaey%2C_Islas_Vestman%2C_Su%C3%B0urland%2C_Islandia%2C_2014-08-17%2C_DD_026.JPG
+- **Date:** Taken on 17 August 2
+
 ## Nebula
 
 ### `images/nebula-01-carina-nebula.jpg`

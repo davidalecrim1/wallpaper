@@ -11,6 +11,7 @@ landscape photos, scores them, and downloads the top N as 3840px JPEGs.
 from __future__ import annotations
 
 import argparse
+import glob
 import json
 import os
 import re
@@ -271,8 +272,14 @@ def select(rows: list[dict], count: int) -> list[dict]:
 
 def download(rows: list[dict], place: str, outdir: str) -> list[dict]:
     os.makedirs(outdir, exist_ok=True)
+    # Continue numbering after any images already present for this place.
+    start = 1
+    for existing in glob.glob(os.path.join(outdir, f"{place}-*.jpg")):
+        match = re.match(rf"{re.escape(place)}-(\d+)-", os.path.basename(existing))
+        if match:
+            start = max(start, int(match.group(1)) + 1)
     manifest = []
-    for index, row in enumerate(rows, start=1):
+    for index, row in enumerate(rows, start=start):
         name = re.sub(r"^File:", "", row["title"])
         name = re.sub(r"\.(jpe?g|png)$", "", name, flags=re.I)
         slug = "-".join(re.sub(r"[^a-z0-9]+", "-", name.lower()).split("-")[:6]).strip("-")
@@ -346,7 +353,8 @@ def main() -> None:
     manifest = download(picks, place, args.dir)
     path = os.path.join(CACHE, "manifest.json")
     existing = json.load(open(path)) if os.path.exists(path) else []
-    existing = [r for r in existing if r.get("place") != place]
+    new_files = {r["file"] for r in manifest}
+    existing = [r for r in existing if r.get("file") not in new_files]
     existing.extend(manifest)
     os.makedirs(CACHE, exist_ok=True)
     json.dump(existing, open(path, "w"), indent=1)
