@@ -451,42 +451,6 @@ where relevant, the size of the original upload.
 
 ## Spacex Launches
 
-### `images/spacex-launches-01-spacex-launches-sentinel-6-satellite-from.jpg`
-
-- **Title:** [SpaceX launches Sentinel-6 Satellite from Vandenberg AFB (201121-F-IN231-001).jpg](https://commons.wikimedia.org/wiki/File:SpaceX_launches_Sentinel-6_Satellite_from_Vandenberg_AFB_(201121-F-IN231-001).jpg)
-- **Author:** U.S. Air Force photo by Michael Peterson
-- **Licence:** Public domain
-- **Resolution:** 3840 x 2563 px (from a 7360 x 4912 px original)
-- **Source:** https://upload.wikimedia.org/wikipedia/commons/2/20/SpaceX_launches_Sentinel-6_Satellite_from_Vandenberg_AFB_%28201121-F-IN231-001%29.jpg
-- **Date:** 2020-11-21 09:06:47
-
-### `images/spacex-launches-02-spacex-starship-sn8-launch-as-viewed.jpg`
-
-- **Title:** [SpaceX Starship SN8 launch as viewed from South Padre Island.jpg](https://commons.wikimedia.org/wiki/File:SpaceX_Starship_SN8_launch_as_viewed_from_South_Padre_Island.jpg)
-- **Author:** Forest Katsch
-- **Licence:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
-- **Resolution:** 3840 x 2400 px (from a 4000 x 2500 px original)
-- **Source:** https://upload.wikimedia.org/wikipedia/commons/b/b9/SpaceX_Starship_SN8_launch_as_viewed_from_South_Padre_Island.jpg
-- **Date:** 2020-12-09 15:44:18
-
-### `images/spacex-launches-03-space-launch-delta-45-supports-successful.jpg`
-
-- **Title:** [Space Launch Delta 45 Supports Successful Transporter-2 Launch (210630-X-WN929-1039).jpg](https://commons.wikimedia.org/wiki/File:Space_Launch_Delta_45_Supports_Successful_Transporter-2_Launch_(210630-X-WN929-1039).jpg)
-- **Author:** U.S. Space Force/Airman 1st Class Dakota Raub
-- **Licence:** Public domain
-- **Resolution:** 3840 x 2560 px (from a 5180 x 3453 px original)
-- **Source:** https://upload.wikimedia.org/wikipedia/commons/f/f7/Space_Launch_Delta_45_Supports_Successful_Transporter-2_Launch_%28210630-X-WN929-1039%29.jpg
-- **Date:** Taken on 30 June 202
-
-### `images/spacex-launches-04-spacex-starbase-integration-tower-quick-disconnect.jpg`
-
-- **Title:** [SpaceX Starbase integration tower quick disconnect arm.jpg](https://commons.wikimedia.org/wiki/File:SpaceX_Starbase_integration_tower_quick_disconnect_arm.jpg)
-- **Author:** Jenny Hautmann
-- **Licence:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
-- **Resolution:** 3840 x 2560 px (from a 6960 x 4640 px original)
-- **Source:** https://upload.wikimedia.org/wikipedia/commons/a/aa/SpaceX_Starbase_integration_tower_quick_disconnect_arm.jpg
-- **Date:** 2023-04-22 15:01:21
-
 ### `images/spacex-launches-05-starship-sn9-sunset.jpg`
 
 - **Title:** [Starship SN9 Sunset.jpg](https://commons.wikimedia.org/wiki/File:Starship_SN9_Sunset.jpg)
@@ -496,15 +460,6 @@ where relevant, the size of the original upload.
 - **Source:** https://upload.wikimedia.org/wikipedia/commons/9/99/Starship_SN9_Sunset.jpg
 - **Date:** 2021-01-17 06:44:24
 
-### `images/spacex-launches-06-starship-sn9-wide-angle.jpg`
-
-- **Title:** [Starship SN9 Wide Angle.jpg](https://commons.wikimedia.org/wiki/File:Starship_SN9_Wide_Angle.jpg)
-- **Author:** Jared Krahn
-- **Licence:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
-- **Resolution:** 3840 x 2560 px (from a 6000 x 4000 px original)
-- **Source:** https://upload.wikimedia.org/wikipedia/commons/7/72/Starship_SN9_Wide_Angle.jpg
-- **Date:** 2021-01-17 05:45:56
-
 ### `images/spacex-launches-07-the-launch-of-the-spacex-starship.jpg`
 
 - **Title:** [The launch of the SpaceX Starship 6 rocket seen from the space station (iss072e220043).jpg](https://commons.wikimedia.org/wiki/File:The_launch_of_the_SpaceX_Starship_6_rocket_seen_from_the_space_station_(iss072e220043).jpg)
@@ -513,30 +468,3 @@ where relevant, the size of the original upload.
 - **Resolution:** 3840 x 2560 px (from a 8256 x 5504 px original)
 - **Source:** https://upload.wikimedia.org/wikipedia/commons/2/2d/The_launch_of_the_SpaceX_Starship_6_rocket_seen_from_the_space_station_%28iss072e220043%29.jpg
 - **Date:** Taken on 19 November
-
-### `images/spacex-launches-08-starship-sn9-launch-pad-and-build.jpg`
-
-- **Title:** [Starship SN9 Launch Pad and Build Site.jpg](https://commons.wikimedia.org/wiki/File:Starship_SN9_Launch_Pad_and_Build_Site.jpg)
-- **Author:** Jared Krahn
-- **Licence:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
-- **Resolution:** 3840 x 2560 px (from a 5259 x 3506 px original)
-- **Source:** https://upload.wikimedia.org/wikipedia/commons/8/88/Starship_SN9_Launch_Pad_and_Build_Site.jpg
-- **Date:** 2021-01-16 03:02:23
-
-### `images/spacex-launches-09-spacex-falcon-9-rocket-launches-nasa.jpg`
-
-- **Title:** [SpaceX Falcon 9 rocket launches NASA's TRACERS mission from Vandenberg, California.jpg](https://commons.wikimedia.org/wiki/File:SpaceX_Falcon_9_rocket_launches_NASA%27s_TRACERS_mission_from_Vandenberg,_California.jpg)
-- **Author:** Mussi Katz
-- **Licence:** [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en)
-- **Resolution:** 3840 x 2560 px (from a 5991 x 3994 px original)
-- **Source:** https://upload.wikimedia.org/wikipedia/commons/b/b2/SpaceX_Falcon_9_rocket_launches_NASA%27s_TRACERS_mission_from_Vandenberg%2C_California.jpg
-- **Date:** 2025-07-23 11:12:23
-
-### `images/spacex-launches-10-usa-texas-boca-chica-beach-51285710103.jpg`
-
-- **Title:** [USA - Texas - Boca Chica Beach (51285710103).jpg](https://commons.wikimedia.org/wiki/File:USA_-_Texas_-_Boca_Chica_Beach_(51285710103).jpg)
-- **Author:** Alexander Hatley from Spring, Texas, USA
-- **Licence:** [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
-- **Resolution:** 3840 x 2560 px (from a 5121 x 3414 px original)
-- **Source:** https://upload.wikimedia.org/wikipedia/commons/f/fa/USA_-_Texas_-_Boca_Chica_Beach_%2851285710103%29.jpg
-- **Date:** 2021-06-27 13:03

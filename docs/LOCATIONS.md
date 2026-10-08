@@ -11,7 +11,7 @@
 | Chile (Atacama & Santiago) | 6 | `images/chile-*` |
 | Argentina (Buenos Aires) | 3 | `images/argentina-*` |
 | Nebula | 10 | `images/nebula-*` |
-| Spacex Launches | 10 | `images/spacex-launches-*` |
+| Spacex Launches | 2 | `images/spacex-launches-*` |
 
 ## Files
 
@@ -91,13 +91,5 @@
 
 ### Spacex Launches
 
-- `images/spacex-launches-01-spacex-launches-sentinel-6-satellite-from.jpg` - SpaceX launches Sentinel-6 Satellite from Vandenberg AFB (201121-F-IN231-001).jpg
-- `images/spacex-launches-02-spacex-starship-sn8-launch-as-viewed.jpg` - SpaceX Starship SN8 launch as viewed from South Padre Island.jpg
-- `images/spacex-launches-03-space-launch-delta-45-supports-successful.jpg` - Space Launch Delta 45 Supports Successful Transporter-2 Launch (210630-X-WN929-1039).jpg
-- `images/spacex-launches-04-spacex-starbase-integration-tower-quick-disconnect.jpg` - SpaceX Starbase integration tower quick disconnect arm.jpg
 - `images/spacex-launches-05-starship-sn9-sunset.jpg` - Starship SN9 Sunset.jpg
-- `images/spacex-launches-06-starship-sn9-wide-angle.jpg` - Starship SN9 Wide Angle.jpg
 - `images/spacex-launches-07-the-launch-of-the-spacex-starship.jpg` - The launch of the SpaceX Starship 6 rocket seen from the space station (iss072e220043).jpg
-- `images/spacex-launches-08-starship-sn9-launch-pad-and-build.jpg` - Starship SN9 Launch Pad and Build Site.jpg
-- `images/spacex-launches-09-spacex-falcon-9-rocket-launches-nasa.jpg` - SpaceX Falcon 9 rocket launches NASA's TRACERS mission from Vandenberg, California.jpg
-- `images/spacex-launches-10-usa-texas-boca-chica-beach-51285710103.jpg` - USA - Texas - Boca Chica Beach (51285710103).jpg
