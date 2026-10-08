@@ -12,10 +12,12 @@
 | Argentina (Buenos Aires) | 3 | `images/argentina-*` |
 | Alps | 1 | `images/alps-*` |
 | Chicago | 1 | `images/chicago-*` |
+| China | 10 | `images/china-*` |
 | Cinque Terre | 1 | `images/cinque-terre-*` |
 | Dolomites | 2 | `images/dolomites-*` |
 | Iceland | 26 | `images/iceland-*` |
 | Iseltwald | 1 | `images/iseltwald-*` |
+| Japan | 11 | `images/japan-*` |
 | Lake Brienz | 2 | `images/lake-brienz-*` |
 | Nebula | 10 | `images/nebula-*` |
 | Spacex Launches | 2 | `images/spacex-launches-*` |
@@ -92,6 +94,19 @@
 
 - `images/chicago-01-skyline-sunset.jpg` - Unsplash photo Nyvq2juw4_o
 
+### China
+
+- `images/china-01-1-tianzishan-wulingyuan-zhangjiajie-2012.jpg` - 1 tianzishan wulingyuan zhangjiajie 2012.jpg
+- `images/china-02-1-zhangjiajie-huangshizhai-wulingyuan-panorama-2012.jpg` - 1 zhangjiajie huangshizhai wulingyuan panorama 2012.jpg
+- `images/china-05-1-aerial-yangshuo-panorama-2017.jpg` - 1 aerial yangshuo panorama 2017.jpg
+- `images/china-06-cr-hxd1-yuanlong.jpg` - CR HXD1 Yuanlong.jpg
+- `images/china-07-sun-and-moon-pagodas-guilin-november.jpg` - Sun and Moon Pagodas Guilin November 2017 HDR.jpg
+- `images/china-08-badaling-china-great-wall-of-china.jpg` - Badaling China Great-Wall-of-China-01.jpg
+- `images/china-10-jingxian-taohuatan-2017-08-19-06.jpg` - Jingxian Taohuatan 2017.08.19 06-47-25.jpg
+- `images/china-12-batang-haizishan-2014-09-16-17.jpg` - Batang Haizishan 2014.09.16 17-17-04.jpg
+- `images/china-13-china-tianjin-5227506-7-8n.jpg` - China Tianjin 5227506 7 8N.jpg
+- `images/china-15-shilin-yunnan-china-shilin-stone-forest.jpg` - Shilin Yunnan China Shilin-Stone-Forest-03a.jpg
+
 ### Cinque Terre
 
 - `images/cinque-terre-01-manarola-sunset.jpg` - Unsplash photo cYrMQA7a3Wc
@@ -133,6 +148,20 @@
 ### Iseltwald
 
 - `images/iseltwald-02-iseltwald-am-brienzersee.jpg` - Iseltwald am Brienzersee.JPG
+
+### Japan
+
+- `images/japan-01-night-view-of-rokk-island-and.jpg` - Night view of Rokkō Island and Higashinada-ku, Kobe, Japan.jpg
+- `images/japan-02-naha-okinawa-japan-shuri-castle-02.jpg` - Naha Okinawa Japan Shuri-Castle-02.jpg
+- `images/japan-03-imagoura-kasumi-coast04bs4440.jpg` - Imagoura Kasumi Coast04bs4440.jpg
+- `images/japan-04-kiyomizu-dera-kyoto-november-2016-01.jpg` - Kiyomizu-dera, Kyoto, November 2016 -01.jpg
+- `images/japan-05-nagoya-castle-larger.jpg` - Nagoya Castle(Larger).jpg
+- `images/japan-09-mount-fuji-at-sunset-march-2025.jpg` - Mount Fuji at sunset, March 2025.jpg
+- `images/japan-10-nago-okinawa-kouri-bridge-02.jpg` - Nago Okinawa Kouri-Bridge-02.jpg
+- `images/japan-11-shirakawago.jpg` - Shirakawago.jpg
+- `images/japan-13-onna-okinawa-japan-cape-manzamo-01.jpg` - Onna Okinawa Japan Cape-Manzamo-01.jpg
+- `images/japan-14-amanohashidate-view-from-kasamatsu-park01s3s4410.jpg` - Amanohashidate view from Kasamatsu Park01s3s4410.jpg
+- `images/japan-15-kasumi-coast-okami-park05n4592.jpg` - Kasumi Coast Okami park05n4592.jpg
 
 ### Lake Brienz
 

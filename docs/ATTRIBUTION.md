@@ -388,6 +388,98 @@ where relevant, the size of the original upload.
 - **Source:** https://unsplash.com/photos/Nyvq2juw4_o
 - **Date:** n/a
 
+## China
+
+### `images/china-01-1-tianzishan-wulingyuan-zhangjiajie-2012.jpg`
+
+- **Title:** [1 tianzishan wulingyuan zhangjiajie 2012.jpg](https://commons.wikimedia.org/wiki/File:1_tianzishan_wulingyuan_zhangjiajie_2012.jpg)
+- **Author:** chensiyuan
+- **Licence:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+- **Resolution:** 8841 x 4415 px
+- **Source:** https://upload.wikimedia.org/wikipedia/commons/7/77/1_tianzishan_wulingyuan_zhangjiajie_2012.jpg
+- **Date:** n/a
+
+### `images/china-02-1-zhangjiajie-huangshizhai-wulingyuan-panorama-2012.jpg`
+
+- **Title:** [1 zhangjiajie huangshizhai wulingyuan panorama 2012.jpg](https://commons.wikimedia.org/wiki/File:1_zhangjiajie_huangshizhai_wulingyuan_panorama_2012.jpg)
+- **Author:** chensiyuan
+- **Licence:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+- **Resolution:** 4608 x 2329 px (from a 13206 x 6676 px original)
+- **Source:** https://upload.wikimedia.org/wikipedia/commons/6/62/1_zhangjiajie_huangshizhai_wulingyuan_panorama_2012.jpg
+- **Date:** n/a
+
+### `images/china-05-1-aerial-yangshuo-panorama-2017.jpg`
+
+- **Title:** [1 aerial yangshuo panorama 2017.jpg](https://commons.wikimedia.org/wiki/File:1_aerial_yangshuo_panorama_2017.jpg)
+- **Author:** Chensiyuan
+- **Licence:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+- **Resolution:** 8267 x 3780 px
+- **Source:** https://upload.wikimedia.org/wikipedia/commons/c/c2/1_aerial_yangshuo_panorama_2017.jpg
+- **Date:** Taken on 29 December
+
+### `images/china-06-cr-hxd1-yuanlong.jpg`
+
+- **Title:** [CR HXD1 Yuanlong.jpg](https://commons.wikimedia.org/wiki/File:CR_HXD1_Yuanlong.jpg)
+- **Author:** Kabelleger / David Gubler
+- **Licence:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+- **Resolution:** 3840 x 2371 px (from a 5122 x 3162 px original)
+- **Source:** https://upload.wikimedia.org/wikipedia/commons/7/7d/CR_HXD1_Yuanlong.jpg
+- **Date:** 2015-08-27 16:47:41
+
+### `images/china-07-sun-and-moon-pagodas-guilin-november.jpg`
+
+- **Title:** [Sun and Moon Pagodas Guilin November 2017 HDR.jpg](https://commons.wikimedia.org/wiki/File:Sun_and_Moon_Pagodas_Guilin_November_2017_HDR.jpg)
+- **Author:** King of Hearts
+- **Licence:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+- **Resolution:** 3840 x 2563 px (from a 6016 x 4016 px original)
+- **Source:** https://upload.wikimedia.org/wikipedia/commons/2/2d/Sun_and_Moon_Pagodas_Guilin_November_2017_HDR.jpg
+- **Date:** Taken on 21 November
+
+### `images/china-08-badaling-china-great-wall-of-china.jpg`
+
+- **Title:** [Badaling China Great-Wall-of-China-01.jpg](https://commons.wikimedia.org/wiki/File:Badaling_China_Great-Wall-of-China-01.jpg)
+- **Author:** CEphoto, Uwe Aranas
+- **Licence:** [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)
+- **Resolution:** 3840 x 2460 px (from a 4184 x 2680 px original)
+- **Source:** https://upload.wikimedia.org/wikipedia/commons/5/50/Badaling_China_Great-Wall-of-China-01.jpg
+- **Date:** Taken on 3 June 2009
+
+### `images/china-10-jingxian-taohuatan-2017-08-19-06.jpg`
+
+- **Title:** [Jingxian Taohuatan 2017.08.19 06-47-25.jpg](https://commons.wikimedia.org/wiki/File:Jingxian_Taohuatan_2017.08.19_06-47-25.jpg)
+- **Author:** Zhangzhugang
+- **Licence:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+- **Resolution:** 3840 x 2560 px (from a 5472 x 3648 px original)
+- **Source:** https://upload.wikimedia.org/wikipedia/commons/1/13/Jingxian_Taohuatan_2017.08.19_06-47-25.jpg
+- **Date:** 2017-08-19 06:47:25
+
+### `images/china-12-batang-haizishan-2014-09-16-17.jpg`
+
+- **Title:** [Batang Haizishan 2014.09.16 17-17-04.jpg](https://commons.wikimedia.org/wiki/File:Batang_Haizishan_2014.09.16_17-17-04.jpg)
+- **Author:** Zhangzhugang
+- **Licence:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+- **Resolution:** 3840 x 2560 px (from a 5472 x 3648 px original)
+- **Source:** https://upload.wikimedia.org/wikipedia/commons/0/0a/Batang_Haizishan_2014.09.16_17-17-04.jpg
+- **Date:** 2014-09-16 17:17:04
+
+### `images/china-13-china-tianjin-5227506-7-8n.jpg`
+
+- **Title:** [China Tianjin 5227506 7 8N.jpg](https://commons.wikimedia.org/wiki/File:China_Tianjin_5227506_7_8N.jpg)
+- **Author:** ermell
+- **Licence:** [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)
+- **Resolution:** 3840 x 2883 px (from a 4276 x 3210 px original)
+- **Source:** https://upload.wikimedia.org/wikipedia/commons/6/63/China_Tianjin_5227506_7_8N.jpg
+- **Date:** 2015-05-22
+
+### `images/china-15-shilin-yunnan-china-shilin-stone-forest.jpg`
+
+- **Title:** [Shilin Yunnan China Shilin-Stone-Forest-03a.jpg](https://commons.wikimedia.org/wiki/File:Shilin_Yunnan_China_Shilin-Stone-Forest-03a.jpg)
+- **Author:** CEphoto, Uwe Aranas
+- **Licence:** [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)
+- **Resolution:** 4067 x 2288 px
+- **Source:** https://upload.wikimedia.org/wikipedia/commons/8/8d/Shilin_Yunnan_China_Shilin-Stone-Forest-03a.jpg
+- **Date:** 2012-03-28
+
 ## Cinque Terre
 
 ### `images/cinque-terre-01-manarola-sunset.jpg`
@@ -665,6 +757,107 @@ where relevant, the size of the original upload.
 - **Resolution:** 3840 x 2563 px (from a 6016 x 4016 px original)
 - **Source:** https://upload.wikimedia.org/wikipedia/commons/4/43/Iseltwald_am_Brienzersee.JPG
 - **Date:** 2013-07-15 11:34:17
+
+## Japan
+
+### `images/japan-01-night-view-of-rokk-island-and.jpg`
+
+- **Title:** [Night view of Rokkō Island and Higashinada-ku, Kobe, Japan.jpg](https://commons.wikimedia.org/wiki/File:Night_view_of_Rokk%C5%8D_Island_and_Higashinada-ku,_Kobe,_Japan.jpg)
+- **Author:** Laitr Keiows
+- **Licence:** [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)
+- **Resolution:** 3840 x 2560 px (from a 5616 x 3744 px original)
+- **Source:** https://upload.wikimedia.org/wikipedia/commons/5/54/Night_view_of_Rokk%C5%8D_Island_and_Higashinada-ku%2C_Kobe%2C_Japan.jpg
+- **Date:** 2008-12-20
+
+### `images/japan-02-naha-okinawa-japan-shuri-castle-02.jpg`
+
+- **Title:** [Naha Okinawa Japan Shuri-Castle-02.jpg](https://commons.wikimedia.org/wiki/File:Naha_Okinawa_Japan_Shuri-Castle-02.jpg)
+- **Author:** CEphoto, Uwe Aranas
+- **Licence:** [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)
+- **Resolution:** 3840 x 2400 px (from a 5646 x 3529 px original)
+- **Source:** https://upload.wikimedia.org/wikipedia/commons/9/98/Naha_Okinawa_Japan_Shuri-Castle-02.jpg
+- **Date:** 2016-01-05
+
+### `images/japan-03-imagoura-kasumi-coast04bs4440.jpg`
+
+- **Title:** [Imagoura Kasumi Coast04bs4440.jpg](https://commons.wikimedia.org/wiki/File:Imagoura_Kasumi_Coast04bs4440.jpg)
+- **Author:** 663highland
+- **Licence:** [CC BY 2.5](https://creativecommons.org/licenses/by/2.5)
+- **Resolution:** 3840 x 2560 px (from a 4440 x 2960 px original)
+- **Source:** https://upload.wikimedia.org/wikipedia/commons/e/e2/Imagoura_Kasumi_Coast04bs4440.jpg
+- **Date:** 2010-07-23
+
+### `images/japan-04-kiyomizu-dera-kyoto-november-2016-01.jpg`
+
+- **Title:** [Kiyomizu-dera, Kyoto, November 2016 -01.jpg](https://commons.wikimedia.org/wiki/File:Kiyomizu-dera,_Kyoto,_November_2016_-01.jpg)
+- **Author:** Martin Falbisoner
+- **Licence:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+- **Resolution:** 3840 x 2363 px (from a 5852 x 3601 px original)
+- **Source:** https://upload.wikimedia.org/wikipedia/commons/8/83/Kiyomizu-dera%2C_Kyoto%2C_November_2016_-01.jpg
+- **Date:** 2016-11-16 14:07:26
+
+### `images/japan-05-nagoya-castle-larger.jpg`
+
+- **Title:** [Nagoya Castle(Larger).jpg](https://commons.wikimedia.org/wiki/File:Nagoya_Castle(Larger).jpg)
+- **Author:** Base64
+- **Licence:** [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)
+- **Resolution:** 3840 x 2160 px
+- **Source:** https://upload.wikimedia.org/wikipedia/commons/4/45/Nagoya_Castle%28Larger%29.jpg
+- **Date:** 2008-07-24
+
+### `images/japan-09-mount-fuji-at-sunset-march-2025.jpg`
+
+- **Title:** [Mount Fuji at sunset, March 2025.jpg](https://commons.wikimedia.org/wiki/File:Mount_Fuji_at_sunset,_March_2025.jpg)
+- **Author:** Romain Guy from San Francisco, USA
+- **Licence:** [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en)
+- **Resolution:** 3840 x 2560 px (from a 11650 x 7767 px original)
+- **Source:** https://upload.wikimedia.org/wikipedia/commons/6/66/Mount_Fuji_at_sunset%2C_March_2025.jpg
+- **Date:** Taken on 19 March 20
+
+### `images/japan-10-nago-okinawa-kouri-bridge-02.jpg`
+
+- **Title:** [Nago Okinawa Kouri-Bridge-02.jpg](https://commons.wikimedia.org/wiki/File:Nago_Okinawa_Kouri-Bridge-02.jpg)
+- **Author:** CEphoto, Uwe Aranas
+- **Licence:** [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)
+- **Resolution:** 5739 x 3228 px
+- **Source:** https://upload.wikimedia.org/wikipedia/commons/6/64/Nago_Okinawa_Kouri-Bridge-02.jpg
+- **Date:** 2016-01-07
+
+### `images/japan-11-shirakawago.jpg`
+
+- **Title:** [Shirakawago.jpg](https://commons.wikimedia.org/wiki/File:Shirakawago.jpg)
+- **Author:** Jordy Meow
+- **Licence:** [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)
+- **Resolution:** 3840 x 2563 px (from a 4200 x 2803 px original)
+- **Source:** https://upload.wikimedia.org/wikipedia/commons/0/06/Shirakawago.jpg
+- **Date:** 2014-02-02 17:54:19
+
+### `images/japan-13-onna-okinawa-japan-cape-manzamo-01.jpg`
+
+- **Title:** [Onna Okinawa Japan Cape-Manzamo-01.jpg](https://commons.wikimedia.org/wiki/File:Onna_Okinawa_Japan_Cape-Manzamo-01.jpg)
+- **Author:** CEphoto, Uwe Aranas
+- **Licence:** [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)
+- **Resolution:** 3840 x 2560 px (from a 5387 x 3591 px original)
+- **Source:** https://upload.wikimedia.org/wikipedia/commons/5/53/Onna_Okinawa_Japan_Cape-Manzamo-01.jpg
+- **Date:** 2016-01-07
+
+### `images/japan-14-amanohashidate-view-from-kasamatsu-park01s3s4410.jpg`
+
+- **Title:** [Amanohashidate view from Kasamatsu Park01s3s4410.jpg](https://commons.wikimedia.org/wiki/File:Amanohashidate_view_from_Kasamatsu_Park01s3s4410.jpg)
+- **Author:** 663highland
+- **Licence:** [CC BY 2.5](https://creativecommons.org/licenses/by/2.5)
+- **Resolution:** 3840 x 2560 px (from a 4410 x 2940 px original)
+- **Source:** https://upload.wikimedia.org/wikipedia/commons/5/51/Amanohashidate_view_from_Kasamatsu_Park01s3s4410.jpg
+- **Date:** 2011-01-08
+
+### `images/japan-15-kasumi-coast-okami-park05n4592.jpg`
+
+- **Title:** [Kasumi Coast Okami park05n4592.jpg](https://commons.wikimedia.org/wiki/File:Kasumi_Coast_Okami_park05n4592.jpg)
+- **Author:** 663highland
+- **Licence:** [CC BY 2.5](https://creativecommons.org/licenses/by/2.5)
+- **Resolution:** 3840 x 2560 px (from a 4200 x 2800 px original)
+- **Source:** https://upload.wikimedia.org/wikipedia/commons/5/53/Kasumi_Coast_Okami_park05n4592.jpg
+- **Date:** 2010-07-23
 
 ## Lake Brienz
 

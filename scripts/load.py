@@ -49,7 +49,8 @@ NEGATIVE = re.compile(
     r"close[- ]?up|macro|detail|relief|plaque|inscription|signage|poster|advertisement|"
     r"painting|artwork|mural|graffiti|fresco|sculpture|statue of|bust|lithograph|"
     r"engraving|caricature|print|map|diagram|logo|coat of arms|flag|banknote|stamp|"
-    r"document|construction|hangar|facilit|scaffold|assembly building|"
+    r"document|illustration|drawing|sketch|cartoon|restoration|replica|scale model|"
+    r"construction|hangar|facilit|scaffold|assembly building|"
     r"landing stage|jetty|pier|dock|harbour|harbor|berth|"
     # people
     r"people|person|persons|human|man|men|woman|women|boy|girl|child|children|kid|"
@@ -59,11 +60,17 @@ NEGATIVE = re.compile(
     r"runner|runners|cyclist|hiker|climber|skier|swimmer|surfer|player|crew|team|"
     r"festival|concert|ceremony|wedding|party|meeting|conference|gathering|"
     r"protest|demonstration|marcha|riot|strike|parade|procession|military|soldier|"
-    r"police|guard|worker|worker|staff|vendor|waiter|costume|cosplay|"
+    r"police|guard|worker|staff|vendor|waiter|costume|cosplay|"
+    r"expert|experts|official|delegate|delegation|scientist|researcher|soldier|"
     r"food|dish|meal|restaurant|diner|menu|market stall|shop window|"
     r"ship|hms|boat|ferry|steamboat|schiff|dampfschiff|kayak|canoe|mine|tractor|"
     r"locomotive|train|railway|wreck|"
     r"swan|goose|duck|flamingo|turtle|bird|gull|condor|penguin|seal|lion|horse|cow|"
+    r"monkey|macaque|ape|gorilla|chimpanzee|deer|elk|moose|fox|wolf|bear|kitten|puppy|"
+    r"squirrel|rabbit|hare|mouse|rat|whale|dolphin|shark|fish|eagle|owl|hawk|falcon|"
+    r"sheep|goat|yak|herd|hxd|locomotive|"
+    r"wagtail|ptarmigan|grouse|sparrow|pigeon|heron|stork|parrot|toucan|butterfly|"
+    r"dragonfly|beetle|spider|snake|lizard|frog|insect|wasp|bee|ant|"
     r"cemetery|cementerio|grave|tomb|funeral|museum|museo)\b",
     re.I,
 )
